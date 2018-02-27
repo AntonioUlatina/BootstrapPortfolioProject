@@ -3,13 +3,10 @@
 
 .navbar {
   margin-bottom: 0;
-  position: fixed;
-  z-index: 1;
-    top: 0;
 }
 
-.sidenav a:hover {
-    color: #f1f1f1;
+.navbar-nav a:hover {
+    color: #ff2255;
 }
 
 /* CUSTOMIZED CAROUSEL
