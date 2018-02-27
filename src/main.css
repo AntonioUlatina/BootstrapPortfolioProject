@@ -87,6 +87,7 @@ body {
 
 .footer,
 footer {
+  list-style: none
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -99,6 +100,8 @@ footer {
 }
 
 .fa {
+
+    list-style: none;
     padding: 20px;
     font-size: 30px;
     width: 30px;
