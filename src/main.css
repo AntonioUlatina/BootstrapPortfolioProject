@@ -99,8 +99,9 @@ footer {
   padding: 40px 0;
 }
 
-.fa {
+.fab {
 
+    float: right;
     list-style: none;
     padding: 20px;
     font-size: 30px;
