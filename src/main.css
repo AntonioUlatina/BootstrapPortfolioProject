@@ -84,29 +84,6 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 160px;
 }
-/*
-.footer,
-footer {
-  list-style: none
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  /*height: 160px;
-  background: #444;
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  padding: 40px 0;
-}
-
-.fab {
-
-    float: right;
-    list-style: none;
-    text-decoration: none;
-    border-radius: 50%;
-}
-*/
 
 .footer {
   background-color: #061D25;
