@@ -84,7 +84,7 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 160px;
 }
-
+/*
 .footer,
 footer {
   list-style: none
@@ -92,7 +92,7 @@ footer {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 160px;
+  /*height: 160px;
   background: #444;
   color: white;
   text-shadow: 1px 1px 1px black;
@@ -106,6 +106,23 @@ footer {
     text-decoration: none;
     border-radius: 50%;
 }
-
+*/
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726F;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+.footer a:hover {
+  color: white;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
